@@ -1,6 +1,5 @@
 ### Hi there 👋
-<!--
-<a rel="me" href="https://infosec.exchange/@kirbykuehl">Mastodon</a> -->
+<a rel="me" href="https://infosec.exchange/@kirbykuehl"></a> 
 <!--
 **kkuehl/kkuehl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
